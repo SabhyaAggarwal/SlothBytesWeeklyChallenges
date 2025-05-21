@@ -1,6 +1,6 @@
 # `removeVirus` Function
 
-This `README.md` explains the Python function `removeVirus`, which simulates the process of finding and "removing" specific types of files from a list based on predefined "virus" criteria.
+This `README.md` explains the Python function `removeVirus`, which simulates the process of finding and removing specific types of files from a list based on predefined "virus" criteria.
 
 ---
 
