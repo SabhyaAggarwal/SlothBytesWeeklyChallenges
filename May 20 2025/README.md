@@ -34,7 +34,7 @@ If no "safe" files remain after the removal process (meaning all files were iden
 
 Examples
 Here are the examples demonstrating the function's behavior:
-```
+```python
 # Example 1: A virus file is removed
 removeVirus("PC Files: spotifysetup.exe, virus.exe, dog.jpg")
 # Expected Output: output = "PC Files: spotifysetup.exe, dog.jpg"
