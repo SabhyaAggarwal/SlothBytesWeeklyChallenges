@@ -23,7 +23,7 @@ The `actualMemorySize` function takes a string representing the advertised memor
 
 ## Usage
 
-To use the function, simply call `actualMemorySize()` with a string representing the memory size.
+To use the function, just call `actualMemorySize()` with a string representing the memory size.
 
 **Example:**
 
