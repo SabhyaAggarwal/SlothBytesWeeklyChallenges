@@ -1,6 +1,6 @@
 def next_letters(s: str) -> str:
     if not s:
-        print("A")
+        print("output=\"A\"")
         return "A"
 
     chars = list(s)
@@ -23,5 +23,5 @@ def next_letters(s: str) -> str:
         chars.insert(0, 'A')
 
     result = "".join(chars)
-    print(result)
+    print(f"output=\"{result}\"")
     return result
