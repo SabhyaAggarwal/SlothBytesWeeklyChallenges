@@ -43,5 +43,5 @@ To use the function, simply call it with your desired string. The function will 
 ### Notes
 
 - All test cases assume input strings will be in CAPITAL letters.
-- An empty input string ("") will result in output="A".
+- An empty input string ("") will result in `output="A"`.
 
