@@ -1,4 +1,4 @@
-# `actualMemorySize` Function
+# `actualMemorySize` Function(mentioned)
 
 This `README.md` explains the Python function `actualMemorySize`, which calculates the actual usable memory of a USB flash drive based on its advertised size.
 
