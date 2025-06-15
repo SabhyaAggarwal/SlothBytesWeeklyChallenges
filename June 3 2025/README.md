@@ -1,4 +1,4 @@
-# Next Letters Alphabetically
+# Next Letters Alphabetically(mentioned)
 
 This repository contains a simple Python function, `next_letters`, designed to increment a given string of capital English letters alphabetically. It works similarly to how numbers increment, handling "carry-overs" when a 'Z' is encountered.
 
