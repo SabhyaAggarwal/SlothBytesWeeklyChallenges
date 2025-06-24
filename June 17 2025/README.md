@@ -25,9 +25,6 @@ The `birthdayCakeCandles` function is designed to count how many candles are the
 Here's how you can use the function and the expected output:
 
 ```python
-# In your Python file (e.g., main.py or directly in birthdayCakeCandles.py for testing)
-# from birthdayCakeCandles import birthdayCakeCandles # Assuming the function is in birthdayCakeCandles.py
-
 # Example 1
 birthdayCakeCandles([4, 4, 1, 3])
 # Expected output: 2
