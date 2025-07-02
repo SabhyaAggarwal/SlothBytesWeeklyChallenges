@@ -30,3 +30,9 @@ def digits(n):
         digit_length += 1
     
     print(f"output = {total_digits}")
+
+# Test cases (commented out for now)
+# digits(1)    # output = 0
+# digits(10)   # output = 9  
+# digits(100)  # output = 189
+# digits(2020) # output = 6969
