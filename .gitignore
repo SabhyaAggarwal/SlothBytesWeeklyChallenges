@@ -7,3 +7,7 @@ env/
 venv/
 .venv/
 .env
+
+# Rust
+target/
+Cargo.lock
