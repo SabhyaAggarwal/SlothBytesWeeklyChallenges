@@ -1,0 +1,14 @@
+POST /IndexNow HTTP/1.1
+Content-Type: application/json; charset=utf-8
+Host: api.indexnow.org
+
+{
+  "host": "sabhyaaggarwal.github.io",
+  "key": "828d838e26364808beb0bc20c6a0f1c7",
+  "keyLocation": "https://sabhyaaggarwal.github.io/SlothBytesWeeklyChallenges/828d838e26364808beb0bc20c6a0f1c7.txt",
+  "urlList": [
+    "https://sabhyaaggarwal.github.io/SlothBytesWeeklyChallenges/",
+    "https://sabhyaaggarwal.github.io/SlothBytesWeeklyChallenges/challenges/",
+    "https://sabhyaaggarwal.github.io/SlothBytesWeeklyChallenges/about/"
+  ]
+}
